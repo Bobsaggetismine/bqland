@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{65689E7C-519F-9F0D-FA8B-8510E6A11B0F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "interpreter", "interpreter\interpreter.vcxproj", "{F9C74FAE-657D-C8A3-EE71-C27A5A26BFA7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ui", "ui\ui.vcxproj", "{C3795900-AF05-880B-18B4-880B045F880B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65689E7C-519F-9F0D-FA8B-8510E6A11B0F}.Debug|x64.ActiveCfg = Debug|x64
+		{65689E7C-519F-9F0D-FA8B-8510E6A11B0F}.Debug|x64.Build.0 = Debug|x64
+		{65689E7C-519F-9F0D-FA8B-8510E6A11B0F}.Release|x64.ActiveCfg = Release|x64
+		{65689E7C-519F-9F0D-FA8B-8510E6A11B0F}.Release|x64.Build.0 = Release|x64
+		{F9C74FAE-657D-C8A3-EE71-C27A5A26BFA7}.Debug|x64.ActiveCfg = Debug|x64
+		{F9C74FAE-657D-C8A3-EE71-C27A5A26BFA7}.Debug|x64.Build.0 = Debug|x64
+		{F9C74FAE-657D-C8A3-EE71-C27A5A26BFA7}.Release|x64.ActiveCfg = Release|x64
+		{F9C74FAE-657D-C8A3-EE71-C27A5A26BFA7}.Release|x64.Build.0 = Release|x64
+		{C3795900-AF05-880B-18B4-880B045F880B}.Debug|x64.ActiveCfg = Debug|x64
+		{C3795900-AF05-880B-18B4-880B045F880B}.Debug|x64.Build.0 = Debug|x64
+		{C3795900-AF05-880B-18B4-880B045F880B}.Release|x64.ActiveCfg = Release|x64
+		{C3795900-AF05-880B-18B4-880B045F880B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
